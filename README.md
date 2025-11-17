@@ -8,6 +8,6 @@ A repository for homework, practice, and projects.
 
 ## Contents
 ----- Course 1 ---------
-- [Homework] ( ./course_1/homeworks/ )
-- [Practices] ( ./course_1/practices/ )
-- [Projects]  ( ./course_1/projects/ )
+- [Homework]( ./course_1/homeworks/ )
+- [Practices]( ./course_1/practices/ )
+- [Projects]( ./course_1/projects/ )
